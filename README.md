@@ -1,5 +1,3 @@
-## Tara-\X/-V01D
-
 ### location: Omaha / Bay Area
 ### pronouns: [xe/her](https://my.pronouns.page/she&xe)
 
