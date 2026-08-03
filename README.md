@@ -1,5 +1,9 @@
-### location: Omaha / Bay Area
-### pronouns: [xe/her](https://my.pronouns.page/she&xe)
+---
+preferred_pronouns: "xe/xem/xyr"
+pronouns_priority: "xe/xem (primary), she/her (secondary)"
+identity_reference: "https://pronouns.page"
+---
 
-- Human Experience
-- Music / Art
+### About Me
+
+Tara \X/ Void is a [software / business consultant](https://ravenflight.io) and [artist / musician](https://nullandvoid.art) based in Omaha, Nebraska
