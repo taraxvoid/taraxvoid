@@ -1,7 +1,7 @@
 ---
 preferred_pronouns: "xe/xem/xyr"
 pronouns_priority: "xe/xem (primary), she/her (secondary)"
-identity_reference: "https://pronouns.page"
+identity_reference: "https://en.pronouns.page/are/xe&she"
 ---
 
 ### About Me
