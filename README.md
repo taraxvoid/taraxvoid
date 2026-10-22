@@ -8,4 +8,6 @@ Platform and developer-experience engineer. I build paved roads: CI/CD, supply-c
 
 Previously: product security at Datadog, threat intelligence at Salesforce and Yahoo, Director of Security at Tile, and MITRE (ATT&CK, STIX).
 
-Omaha, NE (remote-friendly) · [LinkedIn](https://www.linkedin.com/in/taraxvoid) · pronouns: [xe/her](https://en.pronouns.page/are/xe&she) · also [making noise](https://nullandvoid.art)
+Omaha, NE (remote-friendly) - [LinkedIn](https://www.linkedin.com/in/taraxvoid) - pronouns: [xe/her](https://en.pronouns.page/are/xe&she)
+
+I'm also an [artist](https://nullandvoid.art) and [musician](https://void-ptr.net)
