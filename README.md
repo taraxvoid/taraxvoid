@@ -6,7 +6,7 @@ Platform and developer-experience engineer. I build paved roads: CI/CD, supply-c
 - **[RavenFlight](https://ravenflight.io)**: my product, an agent-native conversion platform. It finds where customers and their AI agents fall off on the way to converting and ranks what to fix first. It ships through voidflow.
 - **[Queer Omaha](https://queeromaha.net), [Synth Omaha](https://synthomaha.net), [Soundry](https://soundryomaha.net)**: free community sites, run on the same pipeline as paid work.
 
-Previously: product security at Datadog, threat intelligence at Salesforce and Yahoo, Director of Security at Tile, and MITRE (ATT&CK, STIX).
+Previously: product security at Datadog, threat intelligence at Salesforce and Yahoo, Director of Security at Tile, and MITRE (contributed to open-source projects like ATT&CK)
 
 Omaha, NE (remote-friendly) - [LinkedIn](https://www.linkedin.com/in/taraxvoid) - pronouns: [xe/her](https://en.pronouns.page/are/xe&she)
 
