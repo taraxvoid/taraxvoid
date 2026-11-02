@@ -1,12 +1,10 @@
 ### Tara \X/ Void
 
-Last of the freelance ~~Hackers~~ Platform Engineers
+**Location**: Omaha, NE / Hayward, CA / intertubes
 
-Software ~~Warlock~~ Witch
+**Pronouns**: [xe/her](https://en.pronouns.page/are/xe&she)
 
-**pronouns**: xe/her
-
-**Current interests**: Safe and secure Agentic CI/CD loops, supply-chain security and agent sandboxing / guardrails
+**Interests**: Agentic CI/CD loops, Supply-chain Security,  sandboxing / agent guardrails
 
 ## Projects
 - `voidflow` - **[repo](https://github.com/taraxvoid/voidflow)** | **[NPMX](https://npmx.dev/package/voidflow)** - `npx voidflow init` - easy-mode setup for TypeScript packages: CI/CD, githooks, accessibility (`a11y`) and perf audits, software license compliance, package releases, and more!.
@@ -21,11 +19,11 @@ Software ~~Warlock~~ Witch
 
 [Portfolio / resume site](https://taraxvoid.net)
 
+[LinkedIn](https://www.linkedin.com/in/taraxvoid)
+
 - DataDog: ProdSec / InfraSec
 - Salesforce: ThreatIntel / Detection Engineering
 - Tile: Director of Security
 - MITRE: counter-espionage / ecrime, ATT&CK, "research" (during Obama admin)
-
-Omaha, NE (remote-friendly) - [LinkedIn](https://www.linkedin.com/in/taraxvoid) - pronouns: [xe/her](https://en.pronouns.page/are/xe&she)
 
 I'm also an [expressive artist](https://nullandvoid.art) and [electronic musician](https://void-ptr.net)
