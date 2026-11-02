@@ -21,11 +21,11 @@ Software ~~Warlock~~ Witch
 
 [Portfolio / resume site](https://taraxvoid.net)
 
-- Product security at Datadog
-- Threat intelligence at Salesforce and Yahoo
-- Director of Security at Tile
-- MITRE
+- DataDog: ProdSec / InfraSec
+- Salesforce: ThreatIntel / Detection Engineering
+- Tile: Director of Security
+- MITRE: counter-espionage / ecrime, ATT&CK, "research" (during Obama admin)
 
 Omaha, NE (remote-friendly) - [LinkedIn](https://www.linkedin.com/in/taraxvoid) - pronouns: [xe/her](https://en.pronouns.page/are/xe&she)
 
-I'm also an [artist on-view in Omaha](https://nullandvoid.art) and [a performing musician in the Bay and Omaha](https://void-ptr.net)
+I'm also an [expressive artist](https://nullandvoid.art) and [a performing musician](https://void-ptr.net)
