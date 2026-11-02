@@ -28,4 +28,4 @@ Software ~~Warlock~~ Witch
 
 Omaha, NE (remote-friendly) - [LinkedIn](https://www.linkedin.com/in/taraxvoid) - pronouns: [xe/her](https://en.pronouns.page/are/xe&she)
 
-I'm also an [expressive artist](https://nullandvoid.art) and [a performing musician](https://void-ptr.net)
+I'm also an [expressive artist](https://nullandvoid.art) and [electronic musician](https://void-ptr.net)
