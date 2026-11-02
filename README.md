@@ -1,16 +1,31 @@
-### whoami: Tara \X/ Void
+### Tara \X/ Void
 
-I build paved roads for people and coding agents
+Last of the freelance ~~Hackers~~ Platform Engineers
 
-Current interests are agentic CI/CD loops, supply-chain security and agent sandboxing / guardrails
+Software ~~Warlock~~ Witch
+
+**pronouns**: xe/her
+
+**Current interests**: Safe and secure Agentic CI/CD loops, supply-chain security and agent sandboxing / guardrails
 
 ## Projects
-- **[voidflow](https://github.com/taraxvoid/voidflow)**: shared CI/CD for a fleet of Astro sites on Cloudflare. SHA-pinned and audited (zizmor, actionlint), with a11y and performance budgets, license policy, release channels and branch rulesets as code.
-- **[RavenFlight](https://ravenflight.io)**: my product, an agent-native conversion platform. It finds where customers and their AI agents fall off on the way to converting and ranks what to fix first. It ships through voidflow.
-- **[Queer Omaha](https://queeromaha.net), [Synth Omaha](https://synthomaha.net), [Soundry](https://soundryomaha.net)**: free community sites, run on the same pipeline as paid work.
+- `voidflow` - **[repo](https://github.com/taraxvoid/voidflow)** | **[NPMX](https://npmx.dev/package/voidflow)** - `npx voidflow init` - easy-mode setup for TypeScript packages: CI/CD, githooks, accessibility (`a11y`) and perf audits, software license compliance, package releases, and more!.
+- `QueerOmaha` - **[repo](https://github.com/queeromaha/queeromaha.net)** | **[site](https://queeromaha.net)** - Directory of queer / trans friendly places in Omaha. "Queer" as a verb.
+- `SynthOmaha` - **[repo](https://github.com/taraxvoid/synthomaha/)** | **[site](https://synthomaha.net)** - Site for Omaha electronic music meetup group. Synth is kinda a verb?
+- `SoundryOmaha` - **[repo](https://github.com/taraxvoid/soundry)** | **[site](https://soundryomaha.net)** - Site for Omaha experimental music collective. Soundry isn't a verb at all.
 
-Previously: product security at Datadog, threat intelligence at Salesforce and Yahoo, Director of Security at Tile, and MITRE (contributed to open-source projects like ATT&CK)
+## Bizness
+- `RavenFlight` - **[site](https://rvnflt.com/github)**: Product for agent-native conversion optimization (CRO). Can people and their chatbot servants give you money? Are you suurreeee? Find out for free, at my [convenient CTA link](https://rvnflt.com/github)!
+
+## Career
+
+[Portfolio / resume site](https://taraxvoid.net)
+
+- Product security at Datadog
+- Threat intelligence at Salesforce and Yahoo
+- Director of Security at Tile
+- MITRE
 
 Omaha, NE (remote-friendly) - [LinkedIn](https://www.linkedin.com/in/taraxvoid) - pronouns: [xe/her](https://en.pronouns.page/are/xe&she)
 
-I'm also an [artist](https://nullandvoid.art) and [musician](https://void-ptr.net)
+I'm also an [artist on-view in Omaha](https://nullandvoid.art) and [a performing musician in the Bay and Omaha](https://void-ptr.net)
