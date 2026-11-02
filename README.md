@@ -1,7 +1,10 @@
-### Tara \X/ Void
+### whoami: Tara \X/ Void
 
-Platform and developer-experience engineer. I build paved roads: CI/CD, supply-chain security and guardrails that make the secure path the easy one, for human developers and coding agents alike.
+I build paved roads for people and coding agents
 
+Current interests are agentic CI/CD loops, supply-chain security and agent sandboxing / guardrails
+
+## Projects
 - **[voidflow](https://github.com/taraxvoid/voidflow)**: shared CI/CD for a fleet of Astro sites on Cloudflare. SHA-pinned and audited (zizmor, actionlint), with a11y and performance budgets, license policy, release channels and branch rulesets as code.
 - **[RavenFlight](https://ravenflight.io)**: my product, an agent-native conversion platform. It finds where customers and their AI agents fall off on the way to converting and ranks what to fix first. It ships through voidflow.
 - **[Queer Omaha](https://queeromaha.net), [Synth Omaha](https://synthomaha.net), [Soundry](https://soundryomaha.net)**: free community sites, run on the same pipeline as paid work.
