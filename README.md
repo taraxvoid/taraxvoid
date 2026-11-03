@@ -1,6 +1,6 @@
 ### Tara \X/ Void
 
-**Location**: Omaha, NE / Hayward, CA / intertubes
+**Location**: Omaha, NE / Hayward, CA / interweb
 
 **Pronouns**: [xe/her](https://en.pronouns.page/are/xe&she)
 
@@ -13,7 +13,7 @@
 - `SoundryOmaha` - **[repo](https://github.com/taraxvoid/soundry)** | **[site](https://soundryomaha.net)** - Site for Omaha experimental music collective. Soundry isn't a verb at all.
 
 ## Bizness
-- `RavenFlight` - **[site](https://rvnflt.com/github)**: Product for agent-native conversion optimization (CRO). Can people and their chatbot servants give you money? Are you suurreeee? Find out for free, at my [convenient CTA link](https://rvnflt.com/github)!
+- `RavenFlight` - **[site](https://rvnflt.com/github)**: Agent-native conversion optimization (CRO) product company.
 
 ## Career
 
