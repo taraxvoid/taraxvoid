@@ -7,7 +7,7 @@
 **Interests**: Agentic CI/CD loops, Supply-chain Security,  sandboxing / agent guardrails
 
 ## Projects
-- `voidflow` - **[repo](https://github.com/taraxvoid/voidflow)** | **[NPMX](https://npmx.dev/package/voidflow)** - `npx voidflow init` to make your TypeScript project ready for agentic dev
+- `voidflow` - **[repo](https://github.com/taraxvoid/voidflow)** | **[NPMX](https://npmx.dev/package/voidflow)** - Run `npx voidflow init` to make your TypeScript project ready for agentic dev
 - `QueerOmaha` - **[repo](https://github.com/queeromaha/queeromaha.net)** | **[site](https://queeromaha.net)** - Directory of queer / trans supportive places in Omaha
 - `SynthOmaha` - **[repo](https://github.com/taraxvoid/synthomaha/)** | **[site](https://synthomaha.net)** - Site for Omaha electronic music meetup group
 - `SoundryOmaha` - **[repo](https://github.com/taraxvoid/soundry)** | **[site](https://soundryomaha.net)** - Site for Omaha experimental music collective
