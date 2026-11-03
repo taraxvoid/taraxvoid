@@ -7,10 +7,10 @@
 **Interests**: Agentic CI/CD loops, Supply-chain Security,  sandboxing / agent guardrails
 
 ## Projects
-- `voidflow` - **[repo](https://github.com/taraxvoid/voidflow)** | **[NPMX](https://npmx.dev/package/voidflow)** - `npx voidflow init` - easy-mode setup for TypeScript packages: CI/CD, githooks, accessibility (`a11y`) and perf audits, software license compliance, package releases, and more!.
-- `QueerOmaha` - **[repo](https://github.com/queeromaha/queeromaha.net)** | **[site](https://queeromaha.net)** - Directory of queer / trans friendly places in Omaha. "Queer" as a verb.
-- `SynthOmaha` - **[repo](https://github.com/taraxvoid/synthomaha/)** | **[site](https://synthomaha.net)** - Site for Omaha electronic music meetup group. Synth is kinda a verb?
-- `SoundryOmaha` - **[repo](https://github.com/taraxvoid/soundry)** | **[site](https://soundryomaha.net)** - Site for Omaha experimental music collective. Soundry isn't a verb at all.
+- `voidflow` - **[repo](https://github.com/taraxvoid/voidflow)** | **[NPMX](https://npmx.dev/package/voidflow)** - `npx voidflow init` to scaffold a secure-by-default agentic-dev-native TypeScript project.
+- `QueerOmaha` - **[repo](https://github.com/queeromaha/queeromaha.net)** | **[site](https://queeromaha.net)** - Directory of queer / trans supportive places in Omaha
+- `SynthOmaha` - **[repo](https://github.com/taraxvoid/synthomaha/)** | **[site](https://synthomaha.net)** - Site for Omaha electronic music meetup group
+- `SoundryOmaha` - **[repo](https://github.com/taraxvoid/soundry)** | **[site](https://soundryomaha.net)** - Site for Omaha experimental music collective
 
 ## Bizness
 - `RavenFlight` - **[site](https://rvnflt.com/github)**: Agent-native conversion optimization (CRO) product company.
