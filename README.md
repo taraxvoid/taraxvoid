@@ -15,7 +15,7 @@
 - `SynthOmaha` - **[repo](https://github.com/taraxvoid/synthomaha/)** | **[site](https://synthomaha.net)** - Site for Omaha electronic music meetup group
 - `SoundryOmaha` - **[repo](https://github.com/taraxvoid/soundry)** | **[site](https://soundryomaha.net)** - Site for Omaha experimental music collective
 
-## Bizness
+## Startup
 - `RavenFlight` - **[site](https://rvnflt.com/github)**: Agent-native conversion optimization (CRO) product company.
 
 ## Career
