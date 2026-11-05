@@ -2,6 +2,8 @@
 
 **Location**: Omaha, NE / Hayward, CA
 
+**Portfolio**: [site](https://taraxvoid.net) | [LinkedIn](https://www.linkedin.com/in/taraxvoid) | [resume PDF](https://taraxvoid.net/resume.pdf)
+
 **Pronouns**: [xe/her](https://en.pronouns.page/are/xe&she)
 
 **Interests**: Agentic CI/CD loops, Supply-chain Security,  Agent guardrails
@@ -20,9 +22,6 @@
 
 ## Career
 
-[Portfolio / resume site](https://taraxvoid.net)
-
-[LinkedIn](https://www.linkedin.com/in/taraxvoid)
 
 - DataDog: ProdSec / InfraSec
 - Salesforce: ThreatIntel / Detection Engineering
