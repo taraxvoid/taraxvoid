@@ -26,6 +26,6 @@
 - DataDog: ProdSec / InfraSec
 - Salesforce: ThreatIntel / Detection Engineering
 - Tile: Director of Security
-- MITRE: counter-espionage / ecrime, ATT&CK, "research" (during Obama admin)
+- MITRE: counter-espionage / ecrime, ATT&CK and published / classified security research
 
-I'm also an [expressive artist](https://nullandvoid.art) and [electronic musician](https://void-ptr.net)
+I'm also an [expressive artist and electronic musician]((https://nullandvoid.art)
