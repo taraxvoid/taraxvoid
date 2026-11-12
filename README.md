@@ -1,5 +1,7 @@
 ### Tara \X/ Void
 
+**About**: `curl txv.sh`
+
 **Location**: Omaha, NE / Hayward, CA
 
 **Portfolio**: [site](https://taraxvoid.net) | [LinkedIn](https://www.linkedin.com/in/taraxvoid) | [resume PDF](https://taraxvoid.net/resume.pdf)
